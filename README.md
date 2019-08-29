@@ -12,3 +12,7 @@ CS231N preparation guide.
 - [Numpy Tutorial - 번역](http://aikorea.org/cs231n/python-numpy-tutorial/)
 - [Numpy Reference](https://docs.scipy.org/doc/numpy/reference/index.html)
 - [벡터와 행렬의 연산](https://datascienceschool.net/view-notebook/3f44cfdda2874080a9aa6b034c71d5ec/)
+
+### Memo
+
+- 벡터 x, 행렬 w의 곱에서 shape가 달라서 shape를 바꿔주어 연산해주어야 할 때, 벡터의 shape를 바꾸는 경우 x.T(전치행렬) 사용, 행렬의 shape를 바꾸는 경우 np.reshape 
