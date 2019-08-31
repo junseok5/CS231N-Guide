@@ -12,6 +12,7 @@ CS231N preparation guide.
 - [Numpy Tutorial - 번역](http://aikorea.org/cs231n/python-numpy-tutorial/)
 - [Numpy Reference](https://docs.scipy.org/doc/numpy/reference/index.html)
 - [벡터와 행렬의 연산](https://datascienceschool.net/view-notebook/3f44cfdda2874080a9aa6b034c71d5ec/)
+- [벡터와 행렬의 연산 - 조대협 블로그](https://bcho.tistory.com/1153)
 
 ### Memo
 
