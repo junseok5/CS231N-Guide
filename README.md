@@ -4,8 +4,9 @@ CS231N preparation guide.
 ### References
 
 - [홈](http://cs231n.stanford.edu/)
-- [강의](https://www.youtube.com/playlist?list=PL3FW7Lu3i5JvHM8ljYj-zLfQRF3EO8sYv)
+- [강의 1~5](https://www.youtube.com/playlist?list=PL3FW7Lu3i5JvHM8ljYj-zLfQRF3EO8sYv)
 - [강의 번역 블로그 1-5](https://cding.tistory.com/category/%EC%9D%B8%EA%B3%B5%EC%A7%80%EB%8A%A5/%EB%88%84%EA%B5%AC%EB%82%98%20%EC%9D%B4%ED%95%B4%ED%95%A0%20%EC%88%98%20%EC%9E%88%EB%8A%94%20%EB%94%A5%EB%9F%AC%EB%8B%9D%28cs231n%29)
+- [강의 번역 블로그 6-11](https://lsjsj92.tistory.com/category/%EB%A8%B8%EC%8B%A0%EB%9F%AC%EB%8B%9D%26%EB%94%A5%EB%9F%AC%EB%8B%9D?page=3)
 - [슬라이드](http://cs231n.stanford.edu/syllabus.html)
 - [참고](http://cs231n.github.io/)
 - [Numpy Tutorial - 영어](http://cs231n.github.io/python-numpy-tutorial/)
